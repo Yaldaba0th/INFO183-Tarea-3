@@ -1,2 +1,7 @@
 # INFO183-Tarea-3
-Tercera Tarea Sistemas Lineales
+Tercera tarea de Analisis de Sistemas Lineales.
+
+# Integrantes
+-Ignacio Castro
+
+-Enzo Meneses
